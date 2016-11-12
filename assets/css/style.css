@@ -1,0 +1,31 @@
+body {
+	padding: 40px;
+	font-family: 'Trirong', serif;
+	font-size: 24px;
+	color: #9ba0f3;
+	text-align: center;
+	border: 30px solid #a3388c;
+	background: url("../images/confectionary/confectionary/confectionary.png");
+}
+
+h1 {
+	font-size: 50px;
+	font-weight: 700;
+	padding: 30px;
+	border: 4px solid #b5cb81;
+	color: #3e3588;
+	background: #deb7df;
+}
+
+h2 {
+	font-size: 36px;
+	font-weight: 700;
+	padding: 30px;
+	color: #3e3588;
+}
+
+h3 {
+	line-height: 4px;
+	color: #3e3588;
+}
+
